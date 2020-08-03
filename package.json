@@ -36,6 +36,6 @@
     "phantomjs": "~1.x",
     "tiny-cdn": "*",
     "uglify-js": "^2.8.29",
-    "wru": "~0.2.x"
+    "wru": "^0.3.0"
   }
 }
